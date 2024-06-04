@@ -40,3 +40,8 @@ $ docker-compose up --build
 After each container finishes building, you'll be able to access the chatbot api at `http://localhost:8000/docs` and the Streamlit app at `http://localhost:8501/`.
 
 ![Demo](./langchain_rag_chatbot_demo.gif)
+
+## Reference
+
+Click [here](https://github.com/hfhoffman1144/langchain_neo4j_rag_app/tree/main)
+
